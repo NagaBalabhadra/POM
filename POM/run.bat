@@ -1,0 +1,1 @@
+java -cp C:/Selenium/POM/bin;C:/Selenium/POM/lib/* org.testng.TestNG testng.xml
