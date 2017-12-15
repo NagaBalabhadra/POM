@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="85176" started-at="2017-12-14T00:14:53Z" finished-at="2017-12-14T00:16:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="85176" started-at="2017-12-14T00:14:53Z" finished-at="2017-12-14T00:16:18Z">
+      <class name="TestApplication">
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:TestApplication@6093dd95]" name="openUrl" is-config="true" duration-ms="52806" started-at="2017-12-14T11:14:53Z" finished-at="2017-12-14T11:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="loginFacebook()[pri:0, instance:TestApplication@6093dd95]" name="loginFacebook" duration-ms="30995" started-at="2017-12-14T11:15:46Z" finished-at="2017-12-14T11:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFacebook -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:TestApplication@6093dd95]" name="closeApp" is-config="true" duration-ms="1307" started-at="2017-12-14T11:16:17Z" finished-at="2017-12-14T11:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestApplication -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
